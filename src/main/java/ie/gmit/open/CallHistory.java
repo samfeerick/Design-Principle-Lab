@@ -1,3 +1,7 @@
+//Name: Samuel Feerick
+//Student No: G00319993
+//Design Principles Assignment
+
 package ie.gmit.open;
 
 import java.time.LocalDateTime;
